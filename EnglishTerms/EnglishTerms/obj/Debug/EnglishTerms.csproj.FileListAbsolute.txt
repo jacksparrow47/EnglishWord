@@ -1,0 +1,10 @@
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.Form1.resources
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\bin\Debug\EnglishTerms.exe
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\bin\Debug\EnglishTerms.pdb
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.exe
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.pdb
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.WordListForm.resources
+C:\Users\Mehmet\Desktop\MEmin\Code\M.Emin\EnglishTerms\EnglishTerms\obj\Debug\EnglishTerms.BaseForm.resources
